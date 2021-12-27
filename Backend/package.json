@@ -1,0 +1,16 @@
+{
+  "name": "najihah-fruit-store",
+  "version": "1.0.0",
+  "description": "Najihah web app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "test"
+  },
+  "author": "Najihah AR",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
